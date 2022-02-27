@@ -1,4 +1,4 @@
-package com.jitsitest;
+package jitstest.com;
 
 import android.os.Build;
 import android.os.Bundle;

@@ -5,7 +5,13 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "package": "jitstest.com"
+    },
+    "ios": {
+      "bundleIdentifier": "jitstest.com"
+    }
   },
   "name": "jitsitest"
 }
