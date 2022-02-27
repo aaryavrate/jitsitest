@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "jitsitest",
+    "slug": "jitsitest",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "jitsitest"
+}
